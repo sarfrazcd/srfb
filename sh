@@ -1,3 +1,6 @@
+
+python3 r
+
 clear
 if command -v python2 >/dev/null 2>&1; then
  echo 'python2 already installed'
